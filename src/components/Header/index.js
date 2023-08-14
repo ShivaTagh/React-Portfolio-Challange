@@ -19,15 +19,9 @@ export default function Header(props) {
           </div>
         </header>
       </section>
-      <section class="hero">
-        <div class="hero-cta">
-          {/* <img
-            src={coverImage}
-            className="my-2"
-            style={{ width: "100%" }}
-            alt="cover"
-          /> */}
-
+      <section className="hero">
+        <div className="hero-cta">
+        
           <h2>Welcome</h2>
           <p>
             Welcome to my portfolio page built with React. Here,
