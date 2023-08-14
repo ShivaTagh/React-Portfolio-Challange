@@ -9,7 +9,7 @@ export default function Header(props) {
       <section>
         <header className="flex-row px-1">
           <div>
-            <h1>Shiva Taghizadeh's Portfolio</h1>
+          <h1>Shiva Taghizdeh</h1>
           </div>
           <div>
             <Nav
@@ -32,7 +32,7 @@ export default function Header(props) {
           <p>
             Welcome to my portfolio page built with React. Here,
             you can find a small sample of the projects i worked on over
-            the course of the program.
+            the Berkley full stack coding bootcamp.
           </p>
         </div>
       </section>
