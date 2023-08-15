@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Challange/static/css/main.5dc9c5ed.css",
-    "main.js": "/React-Portfolio-Challange/static/js/main.6e3fbbbc.js",
+    "main.js": "/React-Portfolio-Challange/static/js/main.dc3fdb0b.js",
     "static/js/787.c90f13dc.chunk.js": "/React-Portfolio-Challange/static/js/787.c90f13dc.chunk.js",
     "static/media/Resume.jpg": "/React-Portfolio-Challange/static/media/Resume.84b6f6343b7863df23f2.jpg",
     "static/media/Pet.jpg": "/React-Portfolio-Challange/static/media/Pet.ab54b89264810c330d07.jpg",
@@ -13,11 +13,11 @@
     "static/media/Calories & Me.jpg": "/React-Portfolio-Challange/static/media/Calories & Me.baeab31d14e077c10493.jpg",
     "index.html": "/React-Portfolio-Challange/index.html",
     "main.5dc9c5ed.css.map": "/React-Portfolio-Challange/static/css/main.5dc9c5ed.css.map",
-    "main.6e3fbbbc.js.map": "/React-Portfolio-Challange/static/js/main.6e3fbbbc.js.map",
+    "main.dc3fdb0b.js.map": "/React-Portfolio-Challange/static/js/main.dc3fdb0b.js.map",
     "787.c90f13dc.chunk.js.map": "/React-Portfolio-Challange/static/js/787.c90f13dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc9c5ed.css",
-    "static/js/main.6e3fbbbc.js"
+    "static/js/main.dc3fdb0b.js"
   ]
 }
