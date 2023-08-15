@@ -1,5 +1,6 @@
 {
-    "name": "react_portfolio",
+    "name": "React-Portfolio-Challange",
+    "homepage": "https://ShivaTagh.github.io/React-Portfolio-Challange",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
