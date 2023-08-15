@@ -9,7 +9,7 @@
 
 * [Installation](##Installation)
 * [Usage](##Usage)
-* [Deplpyed App](##Deployed App)
+* [Deployed App](##Deployed App)
 * [Questions](##Questions)
   
 ## Installation
