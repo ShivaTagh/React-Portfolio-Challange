@@ -1,9 +1,7 @@
 import React from "react";
 import myResume from "../../assets/Resume.jpg";
 import { BsCloudDownload } from "react-icons/bs";
-import { MdFoundation } from "react-icons/md";
 import { GrTechnology } from "react-icons/gr";
-import { GrDocumentPerformance } from "react-icons/gr";
 
 export default function Resume() {
   return (
@@ -28,25 +26,9 @@ export default function Resume() {
       {/* // This is the resume language */}
       <section id="home-page-body" className="resume-body">
         <div className="article column1">
-          <p className="column-title">Font-End Tech</p>
-          <p className="column-text">
-            <ul>
-              <li className="logo">
-                <MdFoundation />
-              </li>
-              <li>HTML5</li>
-              <li>CSS</li>
-              <li>JavaScript</li>
-              <li>APIs</li>
-              <li>Bootstrap</li>
-            </ul>
-          </p>
-        </div>
-
-        <div className="article column2">
           {/* <p><img src="./assets/images/streamline-icon-ai-robot-waiter@48x48.PNG"></p> */}
 
-          <p className="column-title">Back-End Tech</p>
+          <p className="column-title">Coding Skills</p>
           <p className="column-text">
             <ul>
               <li className="logo">
@@ -56,18 +38,11 @@ export default function Resume() {
               <li>Express.js</li>
               <li>MySQL</li>
               <li>Sequelize</li>
-              <li>Object-Relational Mapping(ORM)</li>
-            </ul>
-          </p>
-        </div>
-        <div className="article column3">
-          {/* <p><img src="./assets/images/streamline-icon-soft-drinks-glass-ice@48x48.PNG"></p> */}
-          <p className="column-title">Performance Tech</p>
-          <p className="column-text">
-            <ul>
-              <li className="logo">
-                <GrDocumentPerformance />
-              </li>
+              <li>Object-Relational Mapping(ORM)</li><li>HTML5</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>APIs</li>
+              <li>Bootstrap</li>
               <li>NoSQL</li>
               <li>Progressive Web Applications (PWA)</li>
               <li>MongoDB</li>
