@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dc9c5ed.css",
-    "main.js": "/static/js/main.c9904157.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Resume.jpg": "/static/media/Resume.84b6f6343b7863df23f2.jpg",
-    "static/media/Pet.jpg": "/static/media/Pet.ab54b89264810c330d07.jpg",
-    "static/media/API.png": "/static/media/API.c44ecd73924c922c30b6.png",
-    "static/media/Profile.jpg": "/static/media/Profile.b87b27c8e6bed91c543f.jpg",
-    "static/media/CodeQuiz.png": "/static/media/CodeQuiz.81a9819479c1cffb1b14.png",
-    "static/media/Weather-Dashboard.jpg": "/static/media/Weather-Dashboard.2e24474f43f42d606570.jpg",
-    "static/media/Work Scheduler.png": "/static/media/Work Scheduler.f9d5b75ee08ed872a56c.png",
-    "static/media/Calories & Me.jpg": "/static/media/Calories & Me.baeab31d14e077c10493.jpg",
-    "index.html": "/index.html",
-    "main.5dc9c5ed.css.map": "/static/css/main.5dc9c5ed.css.map",
-    "main.c9904157.js.map": "/static/js/main.c9904157.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react_portfolio-challange/static/css/main.5dc9c5ed.css",
+    "main.js": "/react_portfolio-challange/static/js/main.37e91954.js",
+    "static/js/787.36d0bdb0.chunk.js": "/react_portfolio-challange/static/js/787.36d0bdb0.chunk.js",
+    "static/media/Resume.jpg": "/react_portfolio-challange/static/media/Resume.84b6f6343b7863df23f2.jpg",
+    "static/media/Pet.jpg": "/react_portfolio-challange/static/media/Pet.ab54b89264810c330d07.jpg",
+    "static/media/API.png": "/react_portfolio-challange/static/media/API.c44ecd73924c922c30b6.png",
+    "static/media/Profile.jpg": "/react_portfolio-challange/static/media/Profile.b87b27c8e6bed91c543f.jpg",
+    "static/media/CodeQuiz.png": "/react_portfolio-challange/static/media/CodeQuiz.81a9819479c1cffb1b14.png",
+    "static/media/Weather-Dashboard.jpg": "/react_portfolio-challange/static/media/Weather-Dashboard.2e24474f43f42d606570.jpg",
+    "static/media/Work Scheduler.png": "/react_portfolio-challange/static/media/Work Scheduler.f9d5b75ee08ed872a56c.png",
+    "static/media/Calories & Me.jpg": "/react_portfolio-challange/static/media/Calories & Me.baeab31d14e077c10493.jpg",
+    "index.html": "/react_portfolio-challange/index.html",
+    "main.5dc9c5ed.css.map": "/react_portfolio-challange/static/css/main.5dc9c5ed.css.map",
+    "main.37e91954.js.map": "/react_portfolio-challange/static/js/main.37e91954.js.map",
+    "787.36d0bdb0.chunk.js.map": "/react_portfolio-challange/static/js/787.36d0bdb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc9c5ed.css",
-    "static/js/main.c9904157.js"
+    "static/js/main.37e91954.js"
   ]
 }
