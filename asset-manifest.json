@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-Challange/static/css/main.5dc9c5ed.css",
-    "main.js": "/React-Portfolio-Challange/static/js/main.dc3fdb0b.js",
-    "static/js/787.c90f13dc.chunk.js": "/React-Portfolio-Challange/static/js/787.c90f13dc.chunk.js",
-    "static/media/Resume.jpg": "/React-Portfolio-Challange/static/media/Resume.84b6f6343b7863df23f2.jpg",
-    "static/media/Pet.jpg": "/React-Portfolio-Challange/static/media/Pet.ab54b89264810c330d07.jpg",
-    "static/media/API.png": "/React-Portfolio-Challange/static/media/API.c44ecd73924c922c30b6.png",
-    "static/media/Profile.jpg": "/React-Portfolio-Challange/static/media/Profile.b87b27c8e6bed91c543f.jpg",
-    "static/media/CodeQuiz.png": "/React-Portfolio-Challange/static/media/CodeQuiz.81a9819479c1cffb1b14.png",
-    "static/media/Weather-Dashboard.jpg": "/React-Portfolio-Challange/static/media/Weather-Dashboard.2e24474f43f42d606570.jpg",
-    "static/media/Work Scheduler.png": "/React-Portfolio-Challange/static/media/Work Scheduler.f9d5b75ee08ed872a56c.png",
-    "static/media/Calories & Me.jpg": "/React-Portfolio-Challange/static/media/Calories & Me.baeab31d14e077c10493.jpg",
-    "index.html": "/React-Portfolio-Challange/index.html",
-    "main.5dc9c5ed.css.map": "/React-Portfolio-Challange/static/css/main.5dc9c5ed.css.map",
-    "main.dc3fdb0b.js.map": "/React-Portfolio-Challange/static/js/main.dc3fdb0b.js.map",
-    "787.c90f13dc.chunk.js.map": "/React-Portfolio-Challange/static/js/787.c90f13dc.chunk.js.map"
+    "main.css": "/Shiva-React-Portfolio/static/css/main.5dc9c5ed.css",
+    "main.js": "/Shiva-React-Portfolio/static/js/main.7dabe570.js",
+    "static/js/787.b96b257d.chunk.js": "/Shiva-React-Portfolio/static/js/787.b96b257d.chunk.js",
+    "static/media/Resume.jpg": "/Shiva-React-Portfolio/static/media/Resume.84b6f6343b7863df23f2.jpg",
+    "static/media/Pet.jpg": "/Shiva-React-Portfolio/static/media/Pet.ab54b89264810c330d07.jpg",
+    "static/media/API.png": "/Shiva-React-Portfolio/static/media/API.c44ecd73924c922c30b6.png",
+    "static/media/Profile.jpg": "/Shiva-React-Portfolio/static/media/Profile.b87b27c8e6bed91c543f.jpg",
+    "static/media/CodeQuiz.png": "/Shiva-React-Portfolio/static/media/CodeQuiz.81a9819479c1cffb1b14.png",
+    "static/media/Weather-Dashboard.jpg": "/Shiva-React-Portfolio/static/media/Weather-Dashboard.2e24474f43f42d606570.jpg",
+    "static/media/Work Scheduler.png": "/Shiva-React-Portfolio/static/media/Work Scheduler.f9d5b75ee08ed872a56c.png",
+    "static/media/Calories & Me.jpg": "/Shiva-React-Portfolio/static/media/Calories & Me.baeab31d14e077c10493.jpg",
+    "index.html": "/Shiva-React-Portfolio/index.html",
+    "main.5dc9c5ed.css.map": "/Shiva-React-Portfolio/static/css/main.5dc9c5ed.css.map",
+    "main.7dabe570.js.map": "/Shiva-React-Portfolio/static/js/main.7dabe570.js.map",
+    "787.b96b257d.chunk.js.map": "/Shiva-React-Portfolio/static/js/787.b96b257d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc9c5ed.css",
-    "static/js/main.dc3fdb0b.js"
+    "static/js/main.7dabe570.js"
   ]
 }
