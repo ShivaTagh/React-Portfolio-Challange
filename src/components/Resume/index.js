@@ -2,6 +2,7 @@ import React from "react";
 import myResume from "../../assets/Resume.jpg";
 import { BsCloudDownload } from "react-icons/bs";
 import { GrTechnology } from "react-icons/gr";
+import { FaBeer } from 'react-icons/fa'
 
 export default function Resume() {
   return (
@@ -52,7 +53,23 @@ export default function Resume() {
               <li>MERN</li>
             </ul>
           </p>
-        </div>
+          <p className="column-title">My proficiencies</p>
+          <p className="column-text">
+            <ul>
+              <li>Leadership/Management experience</li>
+              <li>Troubleshooting</li>
+              <li>SQL and Python Programming</li>
+              <li>Budgeting</li>
+              <li>Full Stack Web Development</li>
+              <li>Network design</li>
+              <li>Quality Assurance</li>
+              <li>Interiot Design</li>
+              <li>Technical Writting</li>
+              <li>Engineering Management</li>
+            </ul>
+            </p>
+          </div>
+        
       </section>
     </div>
   );

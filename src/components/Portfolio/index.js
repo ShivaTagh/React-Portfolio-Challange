@@ -26,6 +26,14 @@ export default function Portfolio() {
                   alt="API"
                 />
               </a>
+              <div className="job-text">
+              <h4>My Social Network API Project</h4>
+              <p>
+              This is an API for a social network web application 
+              where users can share their thoughts, react to friends
+              ’ thoughts, and create a friend list.
+              </p>
+            </div>
             </div>
           </div>
         </div>
@@ -42,6 +50,14 @@ export default function Portfolio() {
                   alt="Work Scheduler"
                 />
               </a>
+              <div className="job-text">
+              <h4>My Work Schedular App</h4>
+              <p>
+              This work day planner is from 9am to 6pm which interact with the user by
+               showing the user the hours that have past , current and future hours. 
+               It is able to add the events and save to the local storage.
+              </p>
+            </div>
             </div>
           </div>
         </div>
@@ -58,6 +74,14 @@ export default function Portfolio() {
                   alt="Pet"
                 />
               </a>
+              <div className="job-text">
+              <h4>My Pet Finder App</h4>
+              <p>
+              This website helps the user find and adopt pets from their nearest 
+              location by registering an account that can save their preferred 
+              pets to adopt.
+              </p>
+            </div>
             </div>
           </div>
         </div>
@@ -74,6 +98,13 @@ export default function Portfolio() {
                   alt="Weather-Dashboard"
                 />
               </a>
+              <div className="job-text">
+              <h4>My Weather Dashboard App</h4>
+              <p>
+                This app retrieve weather data for cities and displays the specific 
+                parameters of current day and 5 days.
+              </p>
+            </div>
             </div>
           </div>
         </div>
@@ -90,6 +121,16 @@ export default function Portfolio() {
                   alt="CodeQuiz"
                 />
               </a>
+              <div className="job-text">
+              <h4>My Quiz App</h4>
+              <p>
+              This is a quiz application using HTML, CSS, and Javascript. 
+              This application emphasizes the use of Javascript to provide 
+              quiz questions and collect user data to determine whether the 
+              answers to a question are correct, this then generates a score 
+              and appends a final page of results from the user data.
+              </p>
+            </div>
             </div>
           </div>
         </div>
@@ -106,6 +147,14 @@ export default function Portfolio() {
                   alt="Calories & Me"
                 />
               </a>
+              <div className="job-text">
+              <h4>My Calories Tracker App</h4>
+              <p>
+                This website browse and retrieve the nutritional information 
+                and brand of any food or meal searched. Serch for restaurant 
+                items, fast foods and package foods.
+              </p>
+            </div>
             </div>
           </div>
         </div>
